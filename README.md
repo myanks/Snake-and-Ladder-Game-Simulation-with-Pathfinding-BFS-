@@ -20,9 +20,5 @@ This project implements a console-based Snake and Ladder game in C++ where two p
 2. Each player rolls the dice (between 1 and 6), and their position is updated accordingly.
 3. The game continues until one of the players reaches position 36, at which point the game ends with that player winning.
 
-## Installation
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/snake-and-ladder-game.git
 
    
